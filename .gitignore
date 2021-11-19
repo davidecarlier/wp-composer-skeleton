@@ -1,0 +1,16 @@
+vendor/*
+!vendor/.gitkeep
+
+wordpress
+wp-config.php
+
+/wp-content/cache
+/wp-content/upgrade
+/wp-content/languages
+/wp-content/uploads/*
+/wp-content/plugins/*
+#!wp-content/plugins/CUSTOM_PLUGIN_1
+#!wp-content/plugins/CUSTOM_PLUGIN_2 
+/wp-content/themes/*
+#!wp-content/themes/CUSTOM_THEME_1
+#!wp-content/themes/CUSTOM_THEME_2 
