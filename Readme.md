@@ -1,6 +1,6 @@
 # WP Composer Skeleton
 
-The easiest way to install and manage a WordPress website with composer.
+An easy way to install and manage a WordPress website with composer.
 
 ## Quickstart
 
@@ -18,4 +18,6 @@ Put your custom code into wp-content (as usual) and enjoy.
 To install plugin via composer you may use [wpackagist.org](https://wpackagist.org/).
 
 Example:
-`composer install "wpackagist-plugin/classic-editor":"1.6.2"`
+`composer require "wpackagist-plugin/classic-editor":"1.6.2"`
+
+Check .gitignore file to commit your custom or non-free plugins.
