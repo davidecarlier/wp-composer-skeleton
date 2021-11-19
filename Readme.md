@@ -15,7 +15,7 @@ Put your custom code into wp-content (as usual) and enjoy.
 
 ## Install plugins and themes with WordPress Packagist
 
-To install plugin via composer you may use [wpackagist.org]https://wpackagist.org/.
+To install plugin via composer you may use [wpackagist.org](https://wpackagist.org/).
 
 Example:
 `composer install "wpackagist-plugin/classic-editor":"1.6.2"`
